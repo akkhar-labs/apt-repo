@@ -5,10 +5,10 @@ Maintainer: Rahat Hasan <rahathasan5773@gmail.com>
 Installed-Size: 100
 Depends: libc6
 Filename: pool/main/nirdeshika-sdk_1.0.0_amd64.deb
-Size: 7112
-MD5sum: 53f64979fc642149decde1eab017616f
-SHA1: f40e74da221412f70f5193e6fd593f1018e866e4
-SHA256: 49864600175883c0053ed76ebf8ece86c875bdf17090b9e7178db8613a931118
+Size: 7476
+MD5sum: c40064d274cf0c05273bfaa339796ffe
+SHA1: 45f7137fa11534665788abcc2a083ca62377795c
+SHA256: c5254b3adabc4d0ca1588954b6f62b43bf8fefc4dce438ed07c636dbda0c49bc
 Section: devel
 Priority: optional
 Homepage: https://github.com/akkhar-labs

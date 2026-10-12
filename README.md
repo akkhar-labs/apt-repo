@@ -10,7 +10,7 @@ sudo apt-get install nirdeshika-sdk
 
 > This repository is not GPG-signed yet (hence `[trusted=yes]`).
 
-Packages: `nirdeshika-sdk` 1.0.0 (built from [`f091e13`](https://github.com/Akkhar-Labs/nirdeshika-sdk/commit/f091e13)).
+Packages: `nirdeshika-sdk` 1.0.0.
 
 ## Regenerating indexes
 
