@@ -1,0 +1,23 @@
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Mon, 12 Oct 2026 19:09:44 +0000
+Label: Akkhar-Labs
+Origin: Akkhar-Labs
+Suite: stable
+MD5Sum:
+ dc7ee0d264936d745ecaded0a4a256ed              146 Release
+ b917c7c6023ef459b97613c28eba81fb              635 main/binary-amd64/Packages
+ a74a1889f6b34ee45d1e42390032950e              464 main/binary-amd64/Packages.gz
+SHA1:
+ 3ea7a9c67bc3c47ae4a28e209da0b1bd85eeae90              146 Release
+ da358cb563ef930706a9487b8a3a30b384cf966a              635 main/binary-amd64/Packages
+ 8fbb2bd549814fd1e87a022d25100f43aa5df018              464 main/binary-amd64/Packages.gz
+SHA256:
+ 34f3f09c1bdfc01902427a133e7cf79c67c66cae58ffce052430fd1a7264d5b0              146 Release
+ 1c09d4c7117da6d6db5edcd62b2437f47b0ec89bbf4653713e8c506d09a7caa6              635 main/binary-amd64/Packages
+ 47bf5ec5c84c89f16ea71da93292d38b69ce8516e466dcbb1bcab891b724b57f              464 main/binary-amd64/Packages.gz
+SHA512:
+ 601ba1ba2c45be2b563e110875e54744665f054e341cb41652af56dc4b52e2d7dcdd434caa3c381d868ba9e93909423079c24ec2593f92fa08b8b9ca0884fb76              146 Release
+ 074b4aeaaa0227677d791691cd98be3f0d9d3ba1ff82206097633f7535bee280732165b8ccb6305898986b6daf8088889fbc83bf9372927ab8928ed86a453206              635 main/binary-amd64/Packages
+ ac357e93bec3eddd5a18fa81d354f4afa907c413520fca0f18080b7277d02f75eafb1d5d6d7fc90032e62bf209edb30d5d39c68bee850d249bedd8a07eae25cd              464 main/binary-amd64/Packages.gz

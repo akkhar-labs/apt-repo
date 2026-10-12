@@ -1,0 +1,18 @@
+Package: nirdeshika-sdk
+Version: 1.0.0
+Architecture: amd64
+Maintainer: Rahat Hasan <rahathasan5773@gmail.com>
+Installed-Size: 100
+Depends: libc6
+Filename: pool/main/nirdeshika-sdk_1.0.0_amd64.deb
+Size: 7112
+MD5sum: 53f64979fc642149decde1eab017616f
+SHA1: f40e74da221412f70f5193e6fd593f1018e866e4
+SHA256: 49864600175883c0053ed76ebf8ece86c875bdf17090b9e7178db8613a931118
+Section: devel
+Priority: optional
+Homepage: https://github.com/akkhar-labs
+Description: Nirdeshika-SDK - Bengali Computing Toolchain
+ Assemble and simulate Bengali assembly programs with one command.
+ Nirdeshika-16 ISA, Boyon assembler, Shimu simulator integration.
+
